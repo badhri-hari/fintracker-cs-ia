@@ -3,4 +3,4 @@
 3. Execute the command `npm install` and wait for the dependencies to be installed.
 4. Execute the command `npm start` to open the application (internet connection required for operation).
 
-I got a 6/7 in CS overall in the N24 series (my school did not give component scores).
+I got a 6 in CS (N24 series) (my school did not give component scores).
