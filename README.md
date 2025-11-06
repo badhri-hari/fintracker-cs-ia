@@ -8,6 +8,6 @@ My school did not give component scores, but my IA did score "very well" accordi
 
 I've added three elements which were not in my final product, won't be too hard to find what they are though ;)
 
-**Contact:** [badhrihari123@gmail.com](mailto:badhrihari123@gmail.com "Email me!")
+If you'd like to contact me, I lurk around in the r/IBO discord server, so you can find me there
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
